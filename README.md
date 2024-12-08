@@ -1,2 +1,1 @@
-# chess
-
+# React Chess ♟
